@@ -78,3 +78,4 @@ export const Conversations = ({ navigation }) => {
         </SafeAreaView>
     );
 };
+

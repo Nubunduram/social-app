@@ -30,6 +30,7 @@ export const ListOfMessages = ({ conversationId }) => {
         ],
     }];
 
+    
     // Trouver la conversation correspondante à l'ID
     const currentConversation = messages.find(convo => convo.id === conversationId);
     
